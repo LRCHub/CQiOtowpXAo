@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "サクラ色",
+  "base_artist": "Angela Aki",
+  "createdAt": "2026-03-08T13:57:58.389000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sakurairo (サクラ色)",
+      "artist": "Angela Aki (アンジェラ・アキ)",
+      "has_synced": true,
+      "path": "select/01_Sakurairo_(サクラ色)_Angela_Aki_(アンジェラ・アキ).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サクラ色",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/02_サクラ色_Angela_Aki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サクラ色",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_01_サクラ色_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "サクラ色",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_02_サクラ色_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "サクラ色",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_03_サクラ色_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "サクラ色",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_04_サクラ色_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "サクラ色",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_05_サクラ色_アンジェラ・アキ.txt"
+    }
+  ]
+}
